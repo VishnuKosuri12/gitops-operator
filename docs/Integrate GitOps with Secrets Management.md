@@ -398,3 +398,4 @@ $ oc cp -c cloud-credential-operator openshift-cloud-credential-operator/<cco_po
 $ chmod 775 ./ccoctl
 $ ./ccoctl --help
 ```
+#1212
